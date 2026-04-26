@@ -1,0 +1,1 @@
+# plugins-background-music-manager
